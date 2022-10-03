@@ -1,0 +1,7 @@
+CustomNavigation.content:
+  path: '/first-page'
+  defaults:
+    _controller: '\Drupal\custom_navigation\Controller\CustomNavigationController::content'
+    _title: 'Hello World!'
+  requirements:
+    _permission: 'access content'

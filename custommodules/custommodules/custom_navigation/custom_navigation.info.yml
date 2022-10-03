@@ -1,0 +1,6 @@
+name: CustomNavigation
+description: Позволяет добавлять ссылки и иконки в меню, а также менять их цвет
+type: module
+core_version_requirement: ^9
+package: Custom
+version: 1.0
